@@ -51,7 +51,7 @@ This website was built to provide a seamless experience for students, faculty, a
 
 ## 🖼️ Screenshots
 
-![Homepage](./images/oxford-college-of-pharmacy.vercel.app_.png)  
+![Homepage](./oxford-college-of-pharmacy.vercel.app_.png)  
 _Responsive homepage layout_
 
 ---
